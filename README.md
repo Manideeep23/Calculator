@@ -13,6 +13,8 @@ Technologies Used
 - CSS
 - JavaScript
 
+
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
@@ -94,6 +96,11 @@ Technologies Used
 </body>
 </html>
               
+
+
+
+
+
 Screenshots
 
 ![1](https://github.com/user-attachments/assets/ba41a50f-ee2f-4e06-b5a4-ba94cdeefa4f)
